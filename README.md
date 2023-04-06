@@ -1,16 +1,9 @@
-# time_management_ui
+# Time Management UI
 
-A new Flutter project.
+### Packages used:
+ - [Google fonts](https://pub.dev/packages/google_fonts)
+ - [Percent Indicator](https://pub.dev/packages/percent_indicator)
 
-## Getting Started
+-----
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen Grab:
